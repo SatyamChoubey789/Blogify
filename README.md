@@ -3,7 +3,7 @@
 ## Writing own blogs made easier for everyone!
 
 <h2 align="center">
-  <a href="https://satyamchoubey.vercel.app/" target="_blank">satyamchoubey.vercel.app</a>
+  <a href="https://satyam-portfolio-orpin.vercel.app/" target="_blank">satyamchoubey.vercel.app</a>
 </h2>
 
 <div align="center">
