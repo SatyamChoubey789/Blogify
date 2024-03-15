@@ -39,7 +39,7 @@ function about({ topics }) {
             <a
               rel="noopener noreferrer"
               target="_blank"
-              href="https://satyamchoubey.vercel.app/"
+              href="https://satyam-portfolio-orpin.vercel.app/"
             >
               See My Works
             </a>
