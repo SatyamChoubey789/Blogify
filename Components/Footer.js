@@ -46,7 +46,7 @@ function Footer() {
             </a>
             <a
               className="ml-4 text-gray-50"
-              href="https://www.linkedin.com/in/satyam-choubey/"
+              href="https://www.linkedin.com/in/satyam-choubey-5a35192b6/"
               rel="noopener noreferrer"
               target="_blank"
             >
